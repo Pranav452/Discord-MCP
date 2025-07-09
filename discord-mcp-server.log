@@ -1,0 +1,189 @@
+2025-07-09 02:09:36,993 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 02:09:36,993 - app.auth - INFO - {"total_keys": 4, "admin_key_present": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-08T20:39:36.993478Z"}
+2025-07-09 02:09:36,993 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:39:36.993663Z"}
+2025-07-09 02:09:36,993 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T20:39:36.993713Z"}
+2025-07-09 02:09:36,993 - discord.client - INFO - logging in using static token
+2025-07-09 02:09:38,597 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f06d59fb6a231fd1d321466ade61ba95).
+2025-07-09 02:09:40,600 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 0, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T20:39:40.599979Z"}
+2025-07-09 02:09:40,999 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T20:39:40.998912Z"}
+2025-07-09 02:09:41,016 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:39:41.016545Z"}
+2025-07-09 02:09:41,016 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:39:41.016748Z"}
+2025-07-09 02:09:41,016 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:39:41.016856Z"}
+2025-07-09 02:09:41,016 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:39:41.016937Z"}
+2025-07-09 02:22:03,379 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:52:03.379794Z"}
+2025-07-09 02:23:20,218 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:20.218099Z"}
+2025-07-09 02:23:21,197 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:21.196916Z"}
+2025-07-09 02:23:22,130 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:22.130446Z"}
+2025-07-09 02:23:22,363 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:22.363022Z"}
+2025-07-09 02:23:22,579 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:22.579444Z"}
+2025-07-09 02:23:31,696 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:31.696435Z"}
+2025-07-09 02:23:33,112 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:33.112732Z"}
+2025-07-09 02:23:33,578 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:33.578027Z"}
+2025-07-09 02:23:33,775 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:33.775175Z"}
+2025-07-09 02:23:54,129 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:54.129215Z"}
+2025-07-09 02:23:54,378 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:54.378083Z"}
+2025-07-09 02:23:54,861 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:54.860927Z"}
+2025-07-09 02:23:58,586 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:53:58.586749Z"}
+2025-07-09 02:27:41,178 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:57:41.177894Z"}
+2025-07-09 02:28:30,053 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:58:30.053748Z"}
+2025-07-09 02:28:30,802 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:58:30.802366Z"}
+2025-07-09 02:28:32,387 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:58:32.387039Z"}
+2025-07-09 02:28:33,369 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:58:33.369585Z"}
+2025-07-09 02:28:46,154 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T20:58:46.154045Z"}
+2025-07-09 02:30:37,519 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 02:30:37,519 - app.auth - INFO - {"total_keys": 4, "admin_key_present": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-08T21:00:37.519688Z"}
+2025-07-09 02:30:37,519 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:37.519775Z"}
+2025-07-09 02:30:37,519 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:00:37.519820Z"}
+2025-07-09 02:30:37,519 - discord.client - INFO - logging in using static token
+2025-07-09 02:30:39,672 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 159b4dc555eeea95fa02081929a3efbb).
+2025-07-09 02:30:41,675 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:00:41.675805Z"}
+2025-07-09 02:30:42,526 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:00:42.525918Z"}
+2025-07-09 02:30:42,536 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:42.536263Z"}
+2025-07-09 02:30:42,536 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:42.536638Z"}
+2025-07-09 02:30:42,536 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:42.536771Z"}
+2025-07-09 02:30:42,536 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:42.536894Z"}
+2025-07-09 02:30:42,536 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:00:42.536970Z"}
+2025-07-09 02:32:27,332 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 02:32:27,332 - app.auth - INFO - {"total_keys": 4, "admin_key_present": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-08T21:02:27.332699Z"}
+2025-07-09 02:32:27,332 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:27.332793Z"}
+2025-07-09 02:32:27,332 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:02:27.332847Z"}
+2025-07-09 02:32:27,332 - discord.client - INFO - logging in using static token
+2025-07-09 02:32:29,042 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cc72e721131167706b1b85e4096ad268).
+2025-07-09 02:32:31,046 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:02:31.046757Z"}
+2025-07-09 02:32:31,337 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-08T21:02:31.336980Z"}
+2025-07-09 02:32:31,346 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:31.346515Z"}
+2025-07-09 02:32:31,346 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:31.346732Z"}
+2025-07-09 02:32:31,346 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:31.346808Z"}
+2025-07-09 02:32:31,346 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:31.346866Z"}
+2025-07-09 02:32:31,346 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-08T21:02:31.346919Z"}
+2025-07-09 11:49:19,304 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 11:49:19,304 - app.auth - INFO - {"total_keys": 4, "admin_key_present": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-09T06:19:19.304658Z"}
+2025-07-09 11:49:19,304 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:19.304748Z"}
+2025-07-09 11:49:19,304 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:19:19.304796Z"}
+2025-07-09 11:49:19,304 - discord.client - INFO - logging in using static token
+2025-07-09 11:49:21,599 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a459316b6a9d8394c65d0c3fbada152b).
+2025-07-09 11:49:23,602 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:19:23.602619Z"}
+2025-07-09 11:49:24,309 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:19:24.309660Z"}
+2025-07-09 11:49:24,315 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:24.315163Z"}
+2025-07-09 11:49:24,315 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:24.315268Z"}
+2025-07-09 11:49:24,315 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:24.315324Z"}
+2025-07-09 11:49:24,315 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:24.315369Z"}
+2025-07-09 11:49:24,315 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:19:24.315518Z"}
+2025-07-09 11:50:14,793 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 11:50:14,793 - app.auth - INFO - {"total_keys": 4, "admin_key_present": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-09T06:20:14.793521Z"}
+2025-07-09 11:50:14,793 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:14.793610Z"}
+2025-07-09 11:50:14,793 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:20:14.793652Z"}
+2025-07-09 11:50:14,793 - discord.client - INFO - logging in using static token
+2025-07-09 11:50:16,460 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 60d3193e8f8962debbb0adfd2bfb963a).
+2025-07-09 11:50:18,465 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:20:18.465182Z"}
+2025-07-09 11:50:18,798 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:20:18.798590Z"}
+2025-07-09 11:50:18,806 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:18.806104Z"}
+2025-07-09 11:50:18,806 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:18.806323Z"}
+2025-07-09 11:50:18,806 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:18.806448Z"}
+2025-07-09 11:50:18,806 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:18.806538Z"}
+2025-07-09 11:50:18,806 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:20:18.806689Z"}
+2025-07-09 12:05:16,165 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 12:05:16,165 - app.auth - INFO - {"total_keys": 0, "admin_key_present": false, "auth_bypassed": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-09T06:35:16.165904Z"}
+2025-07-09 12:05:16,166 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:16.165988Z"}
+2025-07-09 12:05:16,166 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:35:16.166029Z"}
+2025-07-09 12:05:16,166 - discord.client - INFO - logging in using static token
+2025-07-09 12:05:17,954 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3f240149a097166d251e4172a4f9b6bb).
+2025-07-09 12:05:19,958 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:35:19.958633Z"}
+2025-07-09 12:05:20,170 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:35:20.170042Z"}
+2025-07-09 12:05:20,179 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.179502Z"}
+2025-07-09 12:05:20,179 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.179827Z"}
+2025-07-09 12:05:20,180 - app.mcp_server - INFO - {"event": "OAuth metadata endpoint: http://localhost:8080/.well-known/oauth-authorization-server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.180059Z"}
+2025-07-09 12:05:20,180 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.180174Z"}
+2025-07-09 12:05:20,180 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.180258Z"}
+2025-07-09 12:05:20,180 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:35:20.180331Z"}
+2025-07-09 12:06:19,798 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:36:19.798703Z"}
+2025-07-09 12:06:19,798 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:36:19.798909Z"}
+2025-07-09 12:06:19,813 - app.mcp_server - INFO - {"method": "notifications/initialized", "request_id": "610e2d2d-6b90-4db6-b924-4146de2e9440", "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:36:19.813449Z"}
+2025-07-09 12:06:19,813 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:36:19.813600Z"}
+2025-07-09 12:09:24,888 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 1, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:39:24.888684Z"}
+2025-07-09 12:09:24,890 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:39:24.890338Z"}
+2025-07-09 12:09:42,744 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 2, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:39:42.744240Z"}
+2025-07-09 12:09:42,744 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:39:42.744727Z"}
+2025-07-09 12:10:33,453 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 3, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:33.453839Z"}
+2025-07-09 12:10:33,454 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:33.453996Z"}
+2025-07-09 12:10:35,236 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 4, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:35.236920Z"}
+2025-07-09 12:10:35,237 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:35.237064Z"}
+2025-07-09 12:10:35,853 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 5, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:35.853094Z"}
+2025-07-09 12:10:35,853 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:40:35.853228Z"}
+2025-07-09 12:11:38,206 - app.mcp_server - INFO - {"method": "notifications/cancelled", "request_id": "32f309cf-d5bd-4b69-bc7a-a89e50d79942", "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:41:38.206807Z"}
+2025-07-09 12:12:27,576 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 12:12:27,576 - app.auth - INFO - {"total_keys": 0, "admin_key_present": false, "auth_bypassed": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-09T06:42:27.576888Z"}
+2025-07-09 12:12:27,576 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:27.576973Z"}
+2025-07-09 12:12:27,577 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:42:27.577014Z"}
+2025-07-09 12:12:27,577 - discord.client - INFO - logging in using static token
+2025-07-09 12:12:29,458 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d7475ef7f67c47e3c60869216453c00f).
+2025-07-09 12:12:31,494 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:42:31.493894Z"}
+2025-07-09 12:12:31,582 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:42:31.582176Z"}
+2025-07-09 12:12:31,589 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.589386Z"}
+2025-07-09 12:12:31,589 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.589705Z"}
+2025-07-09 12:12:31,590 - app.mcp_server - INFO - {"event": "OAuth metadata endpoint: http://localhost:8080/.well-known/oauth-authorization-server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.589940Z"}
+2025-07-09 12:12:31,590 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.590147Z"}
+2025-07-09 12:12:31,590 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.590334Z"}
+2025-07-09 12:12:31,590 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:42:31.590485Z"}
+2025-07-09 12:13:16,402 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:16.402831Z"}
+2025-07-09 12:13:16,403 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:16.403025Z"}
+2025-07-09 12:13:16,417 - app.mcp_server - INFO - {"method": "notifications/initialized", "request_id": "636ef809-04c6-4639-815e-b45cca0fa38a", "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:16.417964Z"}
+2025-07-09 12:13:16,418 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:16.418123Z"}
+2025-07-09 12:13:17,742 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 1, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:17.742420Z"}
+2025-07-09 12:13:17,742 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:43:17.742855Z"}
+2025-07-09 12:24:22,616 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 2, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:54:22.616527Z"}
+2025-07-09 12:24:22,622 - app.audit_logger - INFO - {"request_id": "6dd20805-07bc-4913-8999-fea830c926eb", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:54:22.622507Z"}
+2025-07-09 12:24:22,623 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:54:22.623049Z"}
+2025-07-09 12:24:22,624 - app.mcp_server - ERROR - {"tool": "send_message", "error": "Timeout context manager should be used inside a task", "request_id": "6dd20805-07bc-4913-8999-fea830c926eb", "event": "Tool call failed", "logger": "app.mcp_server", "level": "error", "timestamp": "2025-07-09T06:54:22.624856Z"}
+2025-07-09 12:24:22,626 - app.audit_logger - INFO - {"request_id": "6dd20805-07bc-4913-8999-fea830c926eb", "status": "error", "processing_time": 0.001801, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:54:22.626232Z"}
+2025-07-09 12:24:22,626 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:54:22.626559Z"}
+2025-07-09 12:26:47,690 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 3, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:47.690050Z"}
+2025-07-09 12:26:47,692 - app.audit_logger - INFO - {"request_id": "e00f3a9e-bc19-4273-abb6-756267fbbf2e", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:47.692422Z"}
+2025-07-09 12:26:47,692 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:47.692682Z"}
+2025-07-09 12:26:47,693 - app.mcp_server - ERROR - {"tool": "send_message", "error": "Timeout context manager should be used inside a task", "request_id": "e00f3a9e-bc19-4273-abb6-756267fbbf2e", "event": "Tool call failed", "logger": "app.mcp_server", "level": "error", "timestamp": "2025-07-09T06:56:47.693159Z"}
+2025-07-09 12:26:47,694 - app.audit_logger - INFO - {"request_id": "e00f3a9e-bc19-4273-abb6-756267fbbf2e", "status": "error", "processing_time": 0.000473, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:47.694302Z"}
+2025-07-09 12:26:47,694 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:47.694606Z"}
+2025-07-09 12:26:48,355 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 4, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.355205Z"}
+2025-07-09 12:26:48,356 - app.audit_logger - INFO - {"request_id": "a442384f-61ec-45ea-88ec-846419045d13", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:48.356816Z"}
+2025-07-09 12:26:48,357 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.357030Z"}
+2025-07-09 12:26:48,357 - app.mcp_server - ERROR - {"tool": "send_message", "error": "Timeout context manager should be used inside a task", "request_id": "a442384f-61ec-45ea-88ec-846419045d13", "event": "Tool call failed", "logger": "app.mcp_server", "level": "error", "timestamp": "2025-07-09T06:56:48.357382Z"}
+2025-07-09 12:26:48,358 - app.audit_logger - INFO - {"request_id": "a442384f-61ec-45ea-88ec-846419045d13", "status": "error", "processing_time": 0.000344, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:48.358286Z"}
+2025-07-09 12:26:48,358 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.358551Z"}
+2025-07-09 12:26:48,842 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 5, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.842484Z"}
+2025-07-09 12:26:48,843 - app.audit_logger - INFO - {"request_id": "04ff20ca-3243-42dc-b798-2e919f3950d6", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:48.843580Z"}
+2025-07-09 12:26:48,843 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.843689Z"}
+2025-07-09 12:26:48,843 - app.mcp_server - ERROR - {"tool": "send_message", "error": "Timeout context manager should be used inside a task", "request_id": "04ff20ca-3243-42dc-b798-2e919f3950d6", "event": "Tool call failed", "logger": "app.mcp_server", "level": "error", "timestamp": "2025-07-09T06:56:48.843957Z"}
+2025-07-09 12:26:48,844 - app.audit_logger - INFO - {"request_id": "04ff20ca-3243-42dc-b798-2e919f3950d6", "status": "error", "processing_time": 0.000264, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:48.844631Z"}
+2025-07-09 12:26:48,844 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:48.844826Z"}
+2025-07-09 12:26:49,456 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 6, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:49.456246Z"}
+2025-07-09 12:26:49,457 - app.audit_logger - INFO - {"request_id": "c15294a9-e8fa-46c8-925c-e4ae5ba06c8f", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:49.457445Z"}
+2025-07-09 12:26:49,457 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:49.457569Z"}
+2025-07-09 12:26:49,458 - app.mcp_server - ERROR - {"tool": "send_message", "error": "Timeout context manager should be used inside a task", "request_id": "c15294a9-e8fa-46c8-925c-e4ae5ba06c8f", "event": "Tool call failed", "logger": "app.mcp_server", "level": "error", "timestamp": "2025-07-09T06:56:49.457986Z"}
+2025-07-09 12:26:49,459 - app.audit_logger - INFO - {"request_id": "c15294a9-e8fa-46c8-925c-e4ae5ba06c8f", "status": "error", "processing_time": 0.000395, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:56:49.459308Z"}
+2025-07-09 12:26:49,459 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:56:49.459613Z"}
+2025-07-09 12:27:16,967 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-09 12:27:16,967 - app.auth - INFO - {"total_keys": 0, "admin_key_present": false, "auth_bypassed": true, "event": "API keys initialized", "logger": "app.auth", "level": "info", "timestamp": "2025-07-09T06:57:16.967498Z"}
+2025-07-09 12:27:16,967 - app.mcp_server - INFO - {"version": "1.0.0", "event": "Starting Discord MCP Server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:16.967585Z"}
+2025-07-09 12:27:16,967 - app.discord_client - INFO - {"event": "Initializing Discord client", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:57:16.967636Z"}
+2025-07-09 12:27:16,967 - discord.client - INFO - logging in using static token
+2025-07-09 12:27:19,450 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4f1212b117c70dc9b859343b7aec0bf8).
+2025-07-09 12:27:21,495 - app.discord_client - INFO - {"user": "misogi-project", "guild_count": 1, "event": "Discord client ready", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:57:21.495725Z"}
+2025-07-09 12:27:21,973 - app.discord_client - INFO - {"event": "Discord client initialized successfully", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:57:21.973611Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "MCP HTTP server started on http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977168Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "SSE endpoint available at http://localhost:8080/sse", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977248Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "OAuth metadata endpoint: http://localhost:8080/.well-known/oauth-authorization-server", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977286Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "Discord MCP Server is running...", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977316Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "HTTP Server: http://localhost:8080", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977345Z"}
+2025-07-09 12:27:21,977 - app.mcp_server - INFO - {"event": "Press Ctrl+C to stop", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:21.977372Z"}
+2025-07-09 12:27:45,398 - app.mcp_server - INFO - {"method": "initialize", "request_id": 0, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:45.398848Z"}
+2025-07-09 12:27:45,399 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:45.399208Z"}
+2025-07-09 12:27:45,413 - app.mcp_server - INFO - {"method": "notifications/initialized", "request_id": "0cf0dc72-5eb1-469f-b28e-786e9c7c1ffb", "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:45.413299Z"}
+2025-07-09 12:27:45,413 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:45.413484Z"}
+2025-07-09 12:27:46,671 - app.mcp_server - INFO - {"method": "tools/list", "request_id": 1, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:46.670878Z"}
+2025-07-09 12:27:46,671 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:57:46.671405Z"}
+2025-07-09 12:28:04,010 - app.mcp_server - INFO - {"method": "tools/call", "request_id": 2, "event": "Handling MCP request", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:58:04.009928Z"}
+2025-07-09 12:28:04,013 - app.audit_logger - INFO - {"request_id": "8dee5149-e21b-40e9-827d-4e8d32a90762", "method": "call_tool", "tool_name": "send_message", "event": "Request logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:58:04.013410Z"}
+2025-07-09 12:28:04,013 - app.mcp_server - INFO - {"event": "Authentication bypassed - DANGEROUSLY_OMIT_AUTH is enabled", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:58:04.013686Z"}
+2025-07-09 12:28:04,572 - app.discord_client - INFO - {"channel_id": "726685927107198978", "message_id": 1392399391045718130, "content_length": 9, "event": "Message sent", "logger": "app.discord_client", "level": "info", "timestamp": "2025-07-09T06:58:04.572544Z"}
+2025-07-09 12:28:04,574 - app.audit_logger - INFO - {"request_id": "8dee5149-e21b-40e9-827d-4e8d32a90762", "status": "success", "processing_time": 0.559379, "event": "Response logged", "logger": "app.audit_logger", "level": "info", "timestamp": "2025-07-09T06:58:04.574616Z"}
+2025-07-09 12:28:04,575 - app.mcp_server - INFO - {"event": "HTTP \"POST / HTTP/1.1\" 200 -", "logger": "app.mcp_server", "level": "info", "timestamp": "2025-07-09T06:58:04.575005Z"}

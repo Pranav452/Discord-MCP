@@ -1,0 +1,29 @@
+.env
+.env.*
+*.env
+# dotenv files
+
+# Python cache and build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+audit.md
+logs.md
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (for MCP Inspector etc)
+node_modules/

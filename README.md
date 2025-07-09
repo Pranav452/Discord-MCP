@@ -30,7 +30,7 @@ npx @modelcontextprotocol/inspector
 
 Now you can test out your bot using different tools and see its responses 
 below are some of my screenshots attached of the result 
-![Example 1](public/Screenshot 2025-07-09 at 12.28.58 PM.png)
-![Example 2](public/Screenshot 2025-07-09 at 12.29.22 PM.png)
+![Example 1](public/s1.png)
+![Example 2](public/s2.png)
 
 
